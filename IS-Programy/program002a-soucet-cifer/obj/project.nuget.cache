@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "DyF9zNp1a1M=",
+=======
+  "dgSpecHash": "IZhj80F/k8M=",
+>>>>>>> 4f42d659a8a6a7ccacc225e0d4fc1be0a6c1732f
   "success": true,
   "projectFilePath": "C:\\aaa\\github-tp-is-2026-sk2\\IS-Programy\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj",
   "expectedPackageFiles": [],

@@ -2,7 +2,11 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
+<<<<<<< HEAD
     <TargetFramework>net9.0</TargetFramework>
+=======
+    <TargetFramework>net10.0</TargetFramework>
+>>>>>>> 4f42d659a8a6a7ccacc225e0d4fc1be0a6c1732f
     <RootNamespace>program002a_soucet_cifer</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
